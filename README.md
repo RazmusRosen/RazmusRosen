@@ -10,8 +10,6 @@
 - 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/904746e7-16ce-495f-ad99-de888a357f9b/public_url) – Issued by AWS via Credly
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RazmusRosen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RazmusRosen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RazmusRosen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
